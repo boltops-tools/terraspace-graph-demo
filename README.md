@@ -1,4 +1,4 @@
-# Terraspace Project
+# Terraspace Demo: Dependency Graphs
 
 Terraspace project demonstrates how Terraspace is able to build the dependency graph and deploy multiple stacks at once. It creates a bunch of random_pet resources with dependencies on each other.
 
