@@ -1,5 +1,7 @@
 # Terraspace Demo: Dependency Graphs
 
+[![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
+
 Terraspace project demonstrates how Terraspace is able to build the dependency graph and deploy multiple stacks at once. It creates a bunch of random_pet resources with dependencies on each other.
 
 Learn more:
