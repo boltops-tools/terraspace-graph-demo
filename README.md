@@ -57,10 +57,6 @@ Terraspace provides a preview before deploying:
 To deploy subgraphs, specify the stacks:
 
     $ terraspace all up a2 b2
-    Building one stack to build all stacks
-    Building .terraspace-cache/us-west-2/dev/stacks/c2
-    Downloading tfstate files for dependencies defined in tfvars...
-    Built in .terraspace-cache/us-west-2/dev/stacks/c2
     Will run:
        terraspace up c1 # batch 1
        terraspace up c3 # batch 1
