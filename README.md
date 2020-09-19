@@ -9,6 +9,12 @@ Learn more:
 * [Terraspace Terraform Framework](https://terraspace.cloud/).
 * [Deploy Multiple Stacks](https://terraspace.cloud/docs/dependencies/deploy-all/).
 
+## Setup
+
+    git clone https://github.com/boltops-tools/terraspace-graph-demo
+    cd terraspace-graph-demo
+    bundle
+
 ## Graphs
 
 To draw the full dependency graph defined by this project's resources:
