@@ -1,2 +1,2 @@
-length1 = <%= terraform_output("b1.length") %>
-length2 = <%= terraform_output("b2.length") %>
+length1 = <%= output("b1.length") %>
+length2 = <%= output("b2.length") %>

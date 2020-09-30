@@ -1,1 +1,1 @@
-length = <%= terraform_output("d1.length") %>
+length = <%= output("d1.length") %>
